@@ -1,0 +1,18 @@
+body{
+    background-color:#D18CE0;
+}
+h1{
+text-align: center;
+color:#000000;
+font-weight: bolder;
+font-family: 'Source Code Pro', monospace;
+}
+td{
+    padding: 20px;
+}
+.league{
+    font-family: 'Source Code Pro', monospace;
+    font-size: large;
+    font-weight:bold;
+}
+
