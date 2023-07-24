@@ -1,0 +1,114 @@
+body {
+    background-color:#D18CE0;
+    color: #F5F5F5;
+  }
+  hr{
+    border-style: dashed;
+    border-color: #E8E2E2;
+    width: 50%;
+  }
+ #hall_of_fame:hover{
+  font-size: 50px;
+ }
+ #about:hover{
+  font-size: 50px;
+ }
+#Gold{
+  background-color: #F99417;
+  height: 250px;
+  width: 200px;
+
+  padding: 20px;
+ 
+
+}
+#Silver{
+  
+ /* background-image:url(https://i.pinimg.com/originals/b4/af/49/b4af49c87579396dedcc167429577451.gif) ;
+  background-size: cover;
+  background-position: center;*/
+  background-color: #F99417;
+  height: 250px;
+  width: 200px;
+
+
+  padding: 20px;
+  left: 250px;
+  bottom:290px;
+ position: relative;
+
+}
+#Bronze{
+  background-color: #F99417;
+  height: 250px;
+  width: 200px;
+
+  padding: 20px;
+  left: 500px;
+  bottom:580px;
+ position: relative;
+  
+  
+}
+#whole{
+   margin-left:25%;
+   padding:0%;
+   height: 200px;
+}
+img{
+  padding:0px;
+  margin-left: 25px;
+}
+p{
+  text-align: center;
+  font-family: 'VT323', monospace;
+  font-size: 200px;
+  margin-top: 3%;
+  margin:0px;
+  padding:0px;
+} 
+a{
+  text-decoration: none;
+  color:#F1D00A;
+
+}
+a:visited{
+  color:aquamarine ;
+
+}
+#wof{
+  left:16%;
+  font-family: 'VT323',monospace;
+  position: relative;
+  bottom: 440px;
+  
+}
+.win{
+  text-align:center;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  font-size: larger;
+  font-weight: bolder;
+  top: 10%;
+  
+}
+h1 a + a {
+  margin-left: 30px;
+}
+.winners{
+  position: relative;
+  left: 9%;
+  bottom: 5%;
+padding: 0%;
+}
+#champs{
+  text-align: center;
+  font-family: 'VT323', monospace;
+  font-size: 100px;
+  margin-top: 3%;
+  margin:0px;
+  padding:0px;
+
+}
+
+
